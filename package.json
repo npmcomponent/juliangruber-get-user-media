@@ -1,25 +1,9 @@
 {
-  "name" : "get-user-media",
-  "description" : "Cross browser navigator.getUserMedia with a node api",
-  "version" : "0.0.0",
-  "repository" : {
-    "type" : "git",
-    "url" : "git://github.com/juliangruber/get-user-media.git"
-  },
-  "homepage": "https://github.com/juliangruber/get-user-media",
-  "main" : "index.js",
-  "scripts" : {
-    "test" : "tape test/*.js"
-  },
-  "dependencies" : {},
-  "devDependencies" : {
-    "tape" : "*"
-  },
-  "keywords": ["webaudio","getusermedia","browserify","component"],
-  "author": {
-    "name": "Julian Gruber",
-    "email": "mail@juliangruber.com",
-    "url": "http://juliangruber.com"
-  },
+  "name": "juliangruber-get-user-media",
+  "description": "Cross browser navigator.getUserMedia with a node api",
+  "version": "0.0.0",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
   "license": "MIT"
 }
